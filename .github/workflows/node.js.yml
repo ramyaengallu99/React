@@ -28,4 +28,4 @@ jobs:
       - name: Copy folder data
         run: |
           
-          sudo cp -r /home/react/actions-runner/_work/reactapp-master/reactapp-master/build /var/www/
+          sudo cp -r /home/react/actions-runner/_work/React/React/build /var/www/
